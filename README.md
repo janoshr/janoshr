@@ -7,7 +7,7 @@ Unfortunately, most of my projects are under the university and therefore cannot
 
 ## Projects:
 
-### Software Engineering Group Project
+### [Software Engineering Group Project](https://github.com/Warwick-CS261/Project)
 
 - Software Engineering module coursework
 - Year 2
